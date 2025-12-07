@@ -1,3 +1,4 @@
+// https://github.com/DrStrangeVN/App2smile/blob/master/js/spotify-json.js
 console.log(`spotify-json-2025.06.20`);
 let url = $request.url;
 // console.log(`原始url:${url}`);
